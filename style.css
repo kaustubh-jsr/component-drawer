@@ -6,7 +6,7 @@
 
 
 .container{
-    height: 100vh;
+    padding: 2rem;
     width: 100%;
     background-color:rgba(236, 240, 252, 1);
     font-family: 'Inter', sans-serif;
